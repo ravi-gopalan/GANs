@@ -16,7 +16,6 @@ import torch
 # numpy & scipy imports
 import numpy as np
 import scipy
-import scipy.misc
 import imageio
 
 
